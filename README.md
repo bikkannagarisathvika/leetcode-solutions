@@ -39,6 +39,7 @@ My LeetCode solutions — tracking progress over time.
 | [0263-ugly-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Two Pointers
@@ -97,4 +98,13 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
