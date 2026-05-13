@@ -21,6 +21,7 @@ My LeetCode solutions — tracking progress over time.
 | [0258-add-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0507-perfect-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0507-perfect-number) |
 ## Two Pointers
 |  |
 | ------- |
