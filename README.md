@@ -18,6 +18,7 @@ My LeetCode solutions — tracking progress over time.
 | ------- |
 | [0007-reverse-integer](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,4 +28,12 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
