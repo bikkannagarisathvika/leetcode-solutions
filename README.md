@@ -9,6 +9,7 @@ My LeetCode solutions — tracking progress over time.
 | [0001-two-sum](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1470-shuffle-the-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -32,6 +33,7 @@ My LeetCode solutions — tracking progress over time.
 | [0263-ugly-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0507-perfect-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Two Pointers
 |  |
 | ------- |
