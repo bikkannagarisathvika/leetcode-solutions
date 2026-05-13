@@ -11,6 +11,7 @@ My LeetCode solutions — tracking progress over time.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1470-shuffle-the-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1920-build-array-from-permutation](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
