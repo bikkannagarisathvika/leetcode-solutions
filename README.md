@@ -10,6 +10,7 @@ My LeetCode solutions — tracking progress over time.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1389-create-target-array-in-the-given-order](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
+| [1732-find-the-highest-altitude](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +47,8 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
