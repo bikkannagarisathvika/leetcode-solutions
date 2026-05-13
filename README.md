@@ -11,6 +11,7 @@ My LeetCode solutions — tracking progress over time.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1389-create-target-array-in-the-given-order](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1732-find-the-highest-altitude](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1773-count-items-matching-a-rule](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1773-count-items-matching-a-rule](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 ## Prefix Sum
 |  |
 | ------- |
