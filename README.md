@@ -12,6 +12,7 @@ My LeetCode solutions — tracking progress over time.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1313-decompress-run-length-encoded-list](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1389-create-target-array-in-the-given-order](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
