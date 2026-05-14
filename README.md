@@ -11,6 +11,7 @@ My LeetCode solutions — tracking progress over time.
 | [0053-maximum-subarray](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0867-transpose-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1313-decompress-run-length-encoded-list](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -60,6 +61,7 @@ My LeetCode solutions — tracking progress over time.
 | ------- |
 | [0258-add-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0867-transpose-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -86,6 +88,7 @@ My LeetCode solutions — tracking progress over time.
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting
 |  |
