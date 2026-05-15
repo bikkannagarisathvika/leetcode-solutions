@@ -94,6 +94,7 @@ My LeetCode solutions — tracking progress over time.
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1678-goal-parser-interpretation](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1773-count-items-matching-a-rule](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
