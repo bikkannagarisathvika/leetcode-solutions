@@ -34,6 +34,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0001-two-sum) |
+| [0771-jewels-and-stones](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 ## Math
@@ -86,6 +87,7 @@ My LeetCode solutions — tracking progress over time.
 | [0412-fizz-buzz](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1773-count-items-matching-a-rule](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
