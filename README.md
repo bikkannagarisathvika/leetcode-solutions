@@ -24,6 +24,7 @@ My LeetCode solutions — tracking progress over time.
 | [1512-number-of-good-pairs](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1572-matrix-diagonal-sum](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1773-count-items-matching-a-rule](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
@@ -92,6 +93,7 @@ My LeetCode solutions — tracking progress over time.
 | [1108-defanging-an-ip-address](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1528-shuffle-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1528-shuffle-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1773-count-items-matching-a-rule](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
