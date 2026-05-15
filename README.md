@@ -95,6 +95,7 @@ My LeetCode solutions — tracking progress over time.
 | [1528-shuffle-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
@@ -118,6 +119,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Divide and Conquer
 |  |
 | ------- |
