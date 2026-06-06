@@ -4,7 +4,6 @@ class Solution:
 	        return haystack.index(needle)
         except:
 	        return -1
-
         
 
 # Synced seamlessly with LeetHub Pro
