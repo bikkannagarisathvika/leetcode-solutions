@@ -7,6 +7,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0053-maximum-subarray) |
@@ -89,6 +90,7 @@ My LeetCode solutions — tracking progress over time.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -157,4 +159,8 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0077-combinations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0077-combinations) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
