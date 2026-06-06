@@ -153,4 +153,8 @@ My LeetCode solutions — tracking progress over time.
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+## Backtracking
+|  |
+| ------- |
+| [0077-combinations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
