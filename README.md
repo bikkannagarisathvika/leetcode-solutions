@@ -42,6 +42,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -105,6 +106,7 @@ My LeetCode solutions — tracking progress over time.
 | [0125-valid-palindrome](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0709-to-lower-case) |
@@ -145,6 +147,7 @@ My LeetCode solutions — tracking progress over time.
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Divide and Conquer
@@ -206,4 +209,8 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
