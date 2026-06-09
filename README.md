@@ -45,6 +45,7 @@ My LeetCode solutions — tracking progress over time.
 | [0771-jewels-and-stones](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Math
 |  |
 | ------- |
@@ -116,6 +117,7 @@ My LeetCode solutions — tracking progress over time.
 | [1704-determine-if-string-halves-are-alike](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1773-count-items-matching-a-rule](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1816-truncate-sentence) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1844-replace-all-digits-with-characters](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
 | [1859-sorting-the-sentence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
