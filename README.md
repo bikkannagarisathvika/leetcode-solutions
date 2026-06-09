@@ -11,6 +11,7 @@ My LeetCode solutions — tracking progress over time.
 | [0014-longest-common-prefix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -80,6 +81,7 @@ My LeetCode solutions — tracking progress over time.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
