@@ -116,6 +116,7 @@ My LeetCode solutions — tracking progress over time.
 | [1773-count-items-matching-a-rule](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1844-replace-all-digits-with-characters) |
+| [1859-sorting-the-sentence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Prefix Sum
 |  |
@@ -128,6 +129,7 @@ My LeetCode solutions — tracking progress over time.
 | [0912-sort-an-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1859-sorting-the-sentence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 ## Matrix
 |  |
 | ------- |
