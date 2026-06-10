@@ -27,6 +27,7 @@ My LeetCode solutions — tracking progress over time.
 | [1313-decompress-run-length-encoded-list](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1389-create-target-array-in-the-given-order](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -157,6 +158,7 @@ My LeetCode solutions — tracking progress over time.
 | [0832-flipping-an-image](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting
