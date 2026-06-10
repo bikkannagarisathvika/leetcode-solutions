@@ -5,7 +5,7 @@ class Solution:
         while first<=last and nums[first]!=target:
             first+=1
         while last>=first and nums[last]!=target:
-                last-=1
+            last-=1
         if first<=last:
             return[first,last]
         return [-1,-1]
