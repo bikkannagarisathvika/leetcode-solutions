@@ -90,6 +90,7 @@ My LeetCode solutions — tracking progress over time.
 | [0035-search-insert-position](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0367-valid-perfect-square](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -227,4 +228,8 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
