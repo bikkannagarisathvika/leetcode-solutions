@@ -46,6 +46,7 @@ My LeetCode solutions — tracking progress over time.
 | [1929-concatenation-of-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
 | ------- |
@@ -86,6 +87,7 @@ My LeetCode solutions — tracking progress over time.
 | [0977-squares-of-a-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Binary Search
 |  |
 | ------- |
@@ -155,6 +157,7 @@ My LeetCode solutions — tracking progress over time.
 | [0977-squares-of-a-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Matrix
 |  |
 | ------- |
@@ -230,6 +233,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Queue
 |  |
 | ------- |
