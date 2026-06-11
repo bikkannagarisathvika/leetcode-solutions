@@ -7,7 +7,7 @@ class Solution:
             while nums[right] - nums[left] > 1:
                 left += 1
             if nums[right] - nums[left] == 1:
-                c =max(c,right-left+1)
+                c=max(c,right-left+1)
         return c
 
 
