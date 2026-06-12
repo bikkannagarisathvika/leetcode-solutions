@@ -76,6 +76,7 @@ My LeetCode solutions — tracking progress over time.
 | ------- |
 | [0007-reverse-integer](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@ My LeetCode solutions — tracking progress over time.
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0278-first-bad-version) |
