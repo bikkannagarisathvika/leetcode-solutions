@@ -57,6 +57,7 @@ My LeetCode solutions — tracking progress over time.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2706-buy-two-chocolates](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 | [3248-snake-in-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/3248-snake-in-matrix) |
 ## Hash Table
 |  |
@@ -196,6 +197,7 @@ My LeetCode solutions — tracking progress over time.
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1859-sorting-the-sentence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1859-sorting-the-sentence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2706-buy-two-chocolates](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Matrix
 |  |
 | ------- |
@@ -276,6 +278,7 @@ My LeetCode solutions — tracking progress over time.
 | ------- |
 | [0011-container-with-most-water](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2706-buy-two-chocolates](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Queue
 |  |
 | ------- |
