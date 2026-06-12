@@ -18,6 +18,7 @@ My LeetCode solutions — tracking progress over time.
 | [0075-sort-colors](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0283-move-zeroes) |
@@ -58,6 +59,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0169-majority-element) |
 | [0219-contains-duplicate-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
@@ -174,6 +176,7 @@ My LeetCode solutions — tracking progress over time.
 | [0015-3sum](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -194,6 +197,7 @@ My LeetCode solutions — tracking progress over time.
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [1512-number-of-good-pairs](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
@@ -202,6 +206,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
 |  |
