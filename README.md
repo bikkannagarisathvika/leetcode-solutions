@@ -66,6 +66,7 @@ My LeetCode solutions — tracking progress over time.
 | [0242-valid-anagram](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0771-jewels-and-stones](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -152,6 +153,7 @@ My LeetCode solutions — tracking progress over time.
 | [0344-reverse-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0424-longest-repeating-character-replacement](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -282,6 +284,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
