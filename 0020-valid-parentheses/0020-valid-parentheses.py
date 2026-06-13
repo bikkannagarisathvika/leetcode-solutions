@@ -10,7 +10,10 @@ class Solution:
                 top = stack.pop()
                 if (ch == ')' and top != '(') or (ch == '}' and top != '{') or (ch == ']' and top != '['):
                     return False
-        return len(stack)==0
+        if len(stack)==0:
+            return True
+        else:
+            return False
 
 
 # Synced seamlessly with LeetHub Pro
