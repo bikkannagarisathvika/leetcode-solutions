@@ -29,6 +29,7 @@ My LeetCode solutions — tracking progress over time.
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -308,8 +309,10 @@ My LeetCode solutions — tracking progress over time.
 | ------- |
 | [0020-valid-parentheses](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0503-next-greater-element-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
