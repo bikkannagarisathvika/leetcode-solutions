@@ -152,6 +152,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -301,4 +302,8 @@ My LeetCode solutions — tracking progress over time.
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
