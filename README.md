@@ -19,6 +19,7 @@ My LeetCode solutions — tracking progress over time.
 | [0075-sort-colors](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -85,6 +86,7 @@ My LeetCode solutions — tracking progress over time.
 | [0007-reverse-integer](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
@@ -308,6 +310,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0503-next-greater-element-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
