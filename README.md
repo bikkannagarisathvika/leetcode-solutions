@@ -26,6 +26,7 @@ My LeetCode solutions — tracking progress over time.
 | [0219-contains-duplicate-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0503-next-greater-element-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -73,6 +74,7 @@ My LeetCode solutions — tracking progress over time.
 | [0219-contains-duplicate-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
@@ -111,6 +113,7 @@ My LeetCode solutions — tracking progress over time.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0832-flipping-an-image](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0977-squares-of-a-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -127,6 +130,7 @@ My LeetCode solutions — tracking progress over time.
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0704-binary-search) |
@@ -199,6 +203,7 @@ My LeetCode solutions — tracking progress over time.
 | [0217-contains-duplicate](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
