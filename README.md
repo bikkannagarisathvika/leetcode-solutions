@@ -30,6 +30,7 @@ My LeetCode solutions — tracking progress over time.
 | [0350-intersection-of-two-arrays-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0503-next-greater-element-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
+| [0506-relative-ranks](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0704-binary-search) |
@@ -211,6 +212,7 @@ My LeetCode solutions — tracking progress over time.
 | [0349-intersection-of-two-arrays](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0912-sort-an-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -278,6 +280,7 @@ My LeetCode solutions — tracking progress over time.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0912-sort-an-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
