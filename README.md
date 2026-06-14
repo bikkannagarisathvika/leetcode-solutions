@@ -37,6 +37,7 @@ My LeetCode solutions — tracking progress over time.
 | [0704-binary-search](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -217,6 +218,7 @@ My LeetCode solutions — tracking progress over time.
 | [0506-relative-ranks](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0506-relative-ranks) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0912-sort-an-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1346-check-if-n-and-its-double-exist) |
