@@ -313,6 +313,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Interactive
 |  |
@@ -333,6 +334,7 @@ My LeetCode solutions — tracking progress over time.
 | [0020-valid-parentheses](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0503-next-greater-element-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
@@ -344,4 +346,5 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
