@@ -16,6 +16,7 @@ My LeetCode solutions — tracking progress over time.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -74,6 +75,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -230,6 +232,7 @@ My LeetCode solutions — tracking progress over time.
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0867-transpose-matrix) |
