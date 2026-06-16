@@ -164,6 +164,7 @@ My LeetCode solutions — tracking progress over time.
 | [1929-concatenation-of-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [3248-snake-in-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/3248-snake-in-matrix) |
+| [3612-process-string-with-special-operations-i](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -200,6 +201,7 @@ My LeetCode solutions — tracking progress over time.
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3248-snake-in-matrix](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/3248-snake-in-matrix) |
+| [3612-process-string-with-special-operations-i](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Prefix Sum
 |  |
 | ------- |
