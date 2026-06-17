@@ -349,6 +349,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
@@ -366,4 +367,16 @@ My LeetCode solutions — tracking progress over time.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
