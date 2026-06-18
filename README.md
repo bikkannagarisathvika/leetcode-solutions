@@ -145,6 +145,7 @@ My LeetCode solutions — tracking progress over time.
 | [0035-search-insert-position](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0222-count-complete-tree-nodes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -285,6 +286,7 @@ My LeetCode solutions — tracking progress over time.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0832-flipping-an-image) |
 ## String Matching
@@ -380,6 +382,7 @@ My LeetCode solutions — tracking progress over time.
 | [0111-minimum-depth-of-binary-tree](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -398,6 +401,7 @@ My LeetCode solutions — tracking progress over time.
 | [0111-minimum-depth-of-binary-tree](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
