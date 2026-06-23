@@ -1,12 +1,12 @@
 class Solution:
     def totalNQueens(self, n: int) -> int:
-        count=[0]
+        self.count=0
         cols=set()
         diag1=set()
         diag2=set()
         def bt(row):
             if row==n:
-                count[0]+=1
+                self.count+=1
                 return
             for col in range(n):
                 if col in cols or (row-col) in diag1 or (row+col) in diag2:
@@ -19,7 +19,7 @@ class Solution:
                 diag1.remove(row-col)
                 diag2.remove(row+col)
         bt(0)
-        return count[0]
+        return self.count
 
 # Synced seamlessly with LeetHub Pro
 # Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
