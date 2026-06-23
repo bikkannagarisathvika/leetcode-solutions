@@ -18,6 +18,7 @@ My LeetCode solutions — tracking progress over time.
 | [0039-combination-sum](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0078-subsets) |
@@ -281,6 +282,7 @@ My LeetCode solutions — tracking progress over time.
 | ------- |
 | [0022-generate-parentheses](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -341,6 +343,7 @@ My LeetCode solutions — tracking progress over time.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
