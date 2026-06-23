@@ -20,6 +20,7 @@ My LeetCode solutions — tracking progress over time.
 | [0053-maximum-subarray](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -288,6 +289,7 @@ My LeetCode solutions — tracking progress over time.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0832-flipping-an-image) |
@@ -302,6 +304,7 @@ My LeetCode solutions — tracking progress over time.
 | [0039-combination-sum](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0078-subsets) |
 ## Trie
 |  |
 | ------- |
