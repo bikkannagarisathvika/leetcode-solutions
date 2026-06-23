@@ -37,6 +37,7 @@ My LeetCode solutions — tracking progress over time.
 | [0455-assign-cookies](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0503-next-greater-element-ii](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -239,6 +240,7 @@ My LeetCode solutions — tracking progress over time.
 | [0414-third-maximum-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0628-maximum-product-of-three-numbers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -337,6 +339,7 @@ My LeetCode solutions — tracking progress over time.
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0561-array-partition) |
 | [0912-sort-an-array](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1051-height-checker](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/1051-height-checker) |
 ## Greedy
@@ -345,6 +348,7 @@ My LeetCode solutions — tracking progress over time.
 | [0011-container-with-most-water](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0561-array-partition) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/2706-buy-two-chocolates) |
 ## Queue
