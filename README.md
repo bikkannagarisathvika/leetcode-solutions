@@ -110,6 +110,7 @@ My LeetCode solutions — tracking progress over time.
 | [0007-reverse-integer](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0258-add-digits](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0263-ugly-number) |
@@ -286,6 +287,7 @@ My LeetCode solutions — tracking progress over time.
 | [0022-generate-parentheses](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -295,6 +297,7 @@ My LeetCode solutions — tracking progress over time.
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/bikkannagarisathvika/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
